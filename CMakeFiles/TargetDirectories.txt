@@ -1,0 +1,7 @@
+C:/Users/bhn45gh23ilwerwqr/Downloads/pycdc-master/build/CMakeFiles/pycxx.dir
+C:/Users/bhn45gh23ilwerwqr/Downloads/pycdc-master/build/CMakeFiles/pycdas.dir
+C:/Users/bhn45gh23ilwerwqr/Downloads/pycdc-master/build/CMakeFiles/pycdc.dir
+C:/Users/bhn45gh23ilwerwqr/Downloads/pycdc-master/build/CMakeFiles/check.dir
+C:/Users/bhn45gh23ilwerwqr/Downloads/pycdc-master/build/CMakeFiles/INSTALL.dir
+C:/Users/bhn45gh23ilwerwqr/Downloads/pycdc-master/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/bhn45gh23ilwerwqr/Downloads/pycdc-master/build/CMakeFiles/ZERO_CHECK.dir

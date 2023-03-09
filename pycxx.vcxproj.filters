@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\pycdc-master\bytecode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\pycdc-master\data.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\pycdc-master\pyc_code.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\pycdc-master\pyc_module.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\pycdc-master\pyc_numeric.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\pycdc-master\pyc_object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\pycdc-master\pyc_sequence.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\pycdc-master\pyc_string.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_13.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_14.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_15.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_16.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_20.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_21.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_22.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_23.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_24.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_25.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_26.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_27.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_30.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_31.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_33.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_34.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_35.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_36.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_37.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_38.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_39.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_310.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\bytes\python_311.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\build\CMakeFiles\d795b9e52ee954807433f024c479356f\python_10.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\bhn45gh23ilwerwqr\Downloads\pycdc-master\pycdc-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FE9C49EF-1D3F-33FB-AA6C-0B17D5A6682C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4E021310-FABE-3593-A6A8-EB203A51E62A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
